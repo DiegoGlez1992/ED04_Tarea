@@ -8,6 +8,7 @@ package cuentas;
  * Clase CCuenta que gestiona los métodos del objeto
  *
  * @author diego
+ * @version 1.0
  */
 public class CCuenta {
 
